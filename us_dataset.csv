@@ -1,0 +1,11 @@
+date,event_category,event_label,significance_score,conflict_flag,growth_index,distance_phase,encoded_value
+9/17/2024,connection,start_talking,7,0,6,pre_meet,73
+10/2/2024,milestone,first_voice_call,8,0,7,pre_meet,32
+10/13/2024,milestone,first_video_call,9,0,8,pre_meet,76
+10/30/2024,gesture,flowers_for_him,8,0,7,pre_meet,79
+12/25/2024,milestone,first_meeting,10,0,9,transition,86
+1/5/2025,commitment,introduced_as_girlfriend,9,0,9,early_love,69
+1/13/2025,commitment,official_relationship_day,10,0,10,early_love,32
+4/3/2025,emotional,first_i_love_you,10,0,10,early_love,89
+7/21/2025,quality_time,first_full_day_together,9,0,9,established,79
+12/4/2025,travel,first_trip_together,10,0,10,established,85
