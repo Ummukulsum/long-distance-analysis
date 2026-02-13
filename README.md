@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project performs a structured longitudinal analysis of a high-stability, long-distance relationship system.
+This project performs a structured longitudinal analysis of the high-stability, long-distance relationship between Nadeem and Kulsum.
 
 Time Span:
 September 17, 2024 – Present
@@ -69,4 +69,4 @@ Stable | Resilient | High Growth | Long-Term Optimized
 
 - Dataset contains no redundant features.
 - All numerical fields serve a purpose.
-- Further exploratory analysis may reveal additional insights.
+- ** Further exploratory analysis may reveal additional insights.**
